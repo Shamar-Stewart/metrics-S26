@@ -4,10 +4,10 @@ Below is the live schedule for Fundamentals of Econometrics - Spring 2026
 | Lecture | Topic                                                                 | Remarks |
 |--------:|-----------------------------------------------------------------------|---------|
 |        | **Introduction**                                                       |         |
-| 1      | The Nature of Econometrics & Economic Data                              |         |
+| 1      | [The Nature of Econometrics & Economic Data](Lectures/L1/L1_Intro.pdf) |         |
 | —      | Introduction to R & RMarkdown                                           |         |
 |        | **Part I. Regression Analysis with Cross-Sectional Data**               |         |
-| 2      | The Simple Linear Regression Model                                      |         |
+| 2      | [The Simple Linear Regression Model](Lectures/L2/L2_Simple_Regression.pdf)                                      |         |
 | 3      | Multiple Regression Analysis: Estimation                                |         |
 | 4      | Multiple Regression Analysis: Inference                                 |         |
 | 6      | Multiple Regression Analysis: Further Issues                             |         |
