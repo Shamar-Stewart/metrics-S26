@@ -5,7 +5,7 @@ Below is the live schedule for Fundamentals of Econometrics - Spring 2026
 |--------:|-----------------------------------------------------------------------|---------|
 |        | **Introduction**                                                       |         |
 | 1      | [The Nature of Econometrics & Economic Data](Lectures/L1/L1_Intro.pdf) |   HW1.1 - Tidyverse (Datacamp Assignment) <br> 🕓 $${\color{blue}\text{Due: Feb 4, 2026 (4:00 PM)}}$$      |
-| —      | Introduction to R & RMarkdown                                           | HW1.2 - RMarkdown (Datacamp Assignment) <br> 🕓 $${\color{blue}\text{Due: Feb 4, 2026 (2:30 PM)}}$$        |
+| —      | Introduction to R & RMarkdown                                           | HW1.2 - RMarkdown (Datacamp Assignment) <br> 🕓 $${\color{blue}\text{Due: Feb 4, 2026 (4:00 PM)}}$$        |
 |        | **Part I. Regression Analysis with Cross-Sectional Data**               |         |
 | 2      | [The Simple Linear Regression Model](Lectures/L2/L2_Simple_Regression.pdf)                                      |         |
 | 3      | Multiple Regression Analysis: Estimation                                |         |
